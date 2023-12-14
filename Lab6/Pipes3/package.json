@@ -2,7 +2,7 @@
     "name": "pipes3",
     "version": "1.0.0",
     "description": "Angular 16 Project",
-    "author": "Olexandr Pasalskyi",
+    "author": "Parshykov Anatolii",
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
